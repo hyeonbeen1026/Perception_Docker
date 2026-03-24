@@ -1,0 +1,21 @@
+# Data & Math
+matplotlib==3.5.1
+matplotlib-inline==0.1.7
+numpy==1.26.4
+pandas==2.3.0
+scipy==1.15.3
+
+# Deep Learning (PyTorch & YOLO)
+torch==2.7.0
+torchvision==0.22.0
+ultralytics==8.3.160
+ultralytics-thop==2.0.14
+
+# Image & Utilities
+pillow==11.3.0
+PyYAML==6.0.1
+tqdm==4.67.1
+
+# Model Export & Optimization
+onnx==1.18.0
+onnxruntime==1.22.0
